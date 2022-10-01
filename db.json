@@ -1,0 +1,311 @@
+{
+    "Template": "NewArrival",
+    "TotalPage": 44,
+    "WarehouseList": [
+      {
+        "WarehouseId": "EUDF_PLWS",
+        "CountryEnName": "Europe",
+        "Ico": "//img.gkbcdn.com/s3/w/2003/20200305162126197.jpg"
+      },
+      {
+        "WarehouseId": "PL1TO_PLDF_PLSW_PLSWGA",
+        "CountryEnName": "Poland",
+        "Ico": "//img.gkbcdn.com/s3/w/2208/20220811145454610.jpg"
+      },
+      {
+        "WarehouseId": "DEDF_PLSWRS",
+        "CountryEnName": "Germany",
+        "Ico": "https://img.gkbcdn.com/s3/i/1910/20191018175813229.jpg"
+      },
+      {
+        "WarehouseId": "BGDF_ESDF_ESMD",
+        "CountryEnName": "Spain",
+        "Ico": "//img.gkbcdn.com/s3/w/2110/20211021113310180.jpg"
+      },
+      {
+        "WarehouseId": "US1GC_USDF",
+        "CountryEnName": "United States",
+        "Ico": "//img.gkbcdn.com/s3/w/2208/20220811115541161.jpg"
+      },
+      {
+        "WarehouseId": "UK2CG_UKDF",
+        "CountryEnName": "United Kingdom",
+        "Ico": "//img.gkbcdn.com/s3/w/2205/20220518094737144.jpg"
+      },
+      {
+        "WarehouseId": "HUPADP",
+        "CountryEnName": "Hungary",
+        "Ico": "//img.gkbcdn.com/s3/w/2207/20220726171019255.jpg"
+      },
+      {
+        "WarehouseId": "VLDF",
+        "CountryEnName": "Netherland",
+        "Ico": "//img.gkbcdn.com/s3/w/2103/20210311151004363.jpg"
+      },
+      {
+        "WarehouseId": "SZBT",
+        "CountryEnName": "China",
+        "Ico": "https://img.gkbcdn.com/s3/i/1811/20181110111603672.jpg"
+      },
+      {
+        "WarehouseId": "HKDF",
+        "CountryEnName": "HongKong",
+        "Ico": "//img.gkbcdn.com/s3/w/2003/20200305161955642.jpg"
+      },
+      {
+        "WarehouseId": "FRDF",
+        "CountryEnName": "France",
+        "Ico": "//img.gkbcdn.com/s3/w/1912/20191227181401439.jpg"
+      },
+      {
+        "WarehouseId": "JPDF",
+        "CountryEnName": "Japan",
+        "Ico": "https://img.gkbcdn.com/s3/i/1910/20191018175420531.jpg"
+      },
+      {
+        "WarehouseId": "MXDF",
+        "CountryEnName": "Mexico",
+        "Ico": "//img.gkbcdn.com/s3/w/2209/20220913164044334.jpg"
+      }
+    ],
+    "Categories": [
+      {
+        "CategoryID": 1241,
+        "CategoryName": "Sports & Outdoors"
+      },
+      {
+        "CategoryID": 174,
+        "CategoryName": "Smart Home & Garden"
+      },
+      {
+        "CategoryID": 177,
+        "CategoryName": "Consumer Electronics"
+      },
+      {
+        "CategoryID": 178,
+        "CategoryName": "Phones & Accessories"
+      },
+      {
+        "CategoryID": 505,
+        "CategoryName": "TV Boxes & Mini PCs"
+      },
+      {
+        "CategoryID": 971,
+        "CategoryName": "Computers, Tablets & Accessories"
+      },
+      {
+        "CategoryID": 742,
+        "CategoryName": "Toys & Hobbies"
+      },
+      {
+        "CategoryID": 1549,
+        "CategoryName": "Wearable Devices"
+      },
+      {
+        "CategoryID": 2060,
+        "CategoryName": "Fashion"
+      }
+    ],
+    "Items": [
+      {
+        "ID": 517069,
+        "Name": "Lenovo GM2 Pro Gaming Earphone Wireless Bluetooth Headphone Noise Reduction With Mic for Android IOS Phones - Black",
+        "LinkUrl": "https://m.geekbuying.com/item/Lenovo-GM2-Pro-Gaming-Earphone-Black-517069.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-19/lenovo-gm2-pro-gaming-earphone-black-f1ee15-1663586916504._w280_.jpg",
+        "SalePrice": "$15.99",
+        "CsSalesPrice": "$15.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517051,
+        "Name": "YD05 TWS Earbuds Bluetooth 5.2 HiFi Stereo Wireless In-Ear Hands-Free Sports Headphones",
+        "LinkUrl": "https://m.geekbuying.com/item/YD05-TWS-Earbuds-Bluetooth-5-2-517051.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-15/YD05-TWS-Earbuds-Bluetooth-5-2-517051-0._w280_.jpg",
+        "SalePrice": "$11.99",
+        "CsSalesPrice": "$11.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517052,
+        "Name": "E10 TWS Gaming Wireless Bluetooth 5.1 Low Latency Hi-Fi Stereo Stereo Headphones Black",
+        "LinkUrl": "https://m.geekbuying.com/item/E10-TWS-Gaming-Wireless-Bluetooth-5-1-517052.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-15/E10-TWS-Gaming-Wireless-Bluetooth-5-1-517052-0._w280_.jpg",
+        "SalePrice": "$9.99",
+        "CsSalesPrice": "$9.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517022,
+        "Name": "H96 MAX V58 Android 12 RK3588 8GB/64GB TV BOX WiFi6 Gigabit LAN 8K Decode - EU Plug",
+        "LinkUrl": "https://m.geekbuying.com/item/H96-MAX-V58-Android-12-RK3588-8GB-64GB-TV-BOX-8K-decode-517022.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-13/H96-MAX-V58-Android-12-RK3588-8GB-64GB-TV-BOX-8K-decode-517022-0._w280_.jpg",
+        "SalePrice": "$179.99",
+        "CsSalesPrice": "$211.99",
+        "Discount": 15,
+        "LabelText": ""
+      },
+      {
+        "ID": 517067,
+        "Name": "S216 Smartwatch Bluetooth Calling 1.78 Inch Full Touch Screen Men's Sports Watch Heart Rate Monitoring - Black",
+        "LinkUrl": "https://m.geekbuying.com/item/S216-Smartwatch-Bluetooth-Calling-1-78-Inch-517067.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-17/S216-Smartwatch-Bluetooth-Calling-1-78-Inch-517067-0._w280_.jpg",
+        "SalePrice": "$17.99",
+        "CsSalesPrice": "$17.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517198,
+        "Name": "USB Hub Adapter 5 Port Docking Station HDMI for Macbook 5 in 1 Docking Station",
+        "LinkUrl": "https://m.geekbuying.com/item/USB-Hub-Adapter-5-Port-Docking-Station-HDMI-for-Macbook-517198.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-23/USB-Hub-Adapter-5-Port-Docking-Station-HDMI-for-Macbook-517198-0._w280_.jpg",
+        "SalePrice": "$15.99",
+        "CsSalesPrice": "$15.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517144,
+        "Name": "Zeblaze GTR 3 Smartwatch Bluetooth Voice Calling Watch 1.32'' IPS Screen Blood Oxygen Monitor - Black",
+        "LinkUrl": "https://m.geekbuying.com/item/Zeblaze-GTR-3-Smartwatch-Bluetooth-Voice-Calling-Watch-Black-517144.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-21/Zeblaze-GTR-3-Smartwatch-Bluetooth-Voice-Calling-Watch-Black-517144-0._w280_.jpg",
+        "SalePrice": "$40.99",
+        "CsSalesPrice": "$40.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517200,
+        "Name": "S29 New Cochlear Bluetooth 5.3 Wireless TWS Earbuds Hi-Fi Bass Stereo Sports Waterproof Noise Cancelling Headphone Black",
+        "LinkUrl": "https://m.geekbuying.com/item/S29-New-Cochlear-Bluetooth-5-3-Wireless-TWS-Earbuds-517200.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-23/S29-New-Cochlear-Bluetooth-5-3-Wireless-TWS-Earbuds-517200-0._w280_.jpg",
+        "SalePrice": "$24.99",
+        "CsSalesPrice": "$24.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517095,
+        "Name": "MECOOL KM2 PLUS Netflix Certified Android TV 11 4K TV BOX Amlogic S905X4-B 2G RAM 16G eMMC HDR 5G WIFI SPDIF Dolby Audio - EU Plug",
+        "LinkUrl": "https://m.geekbuying.com/item/MECOOL-KM2-PLUS-Netflix-4K-Android-TV-4K-TV-BOX-517095.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-20/MECOOL-KM2-PLUS-Netflix-4K-Android-TV-4K-TV-BOX-517095-0._w280_.jpg",
+        "SalePrice": "$75.99",
+        "CsSalesPrice": "$90.99",
+        "Discount": 16,
+        "LabelText": ""
+      },
+      {
+        "ID": 517009,
+        "Name": "H96 MAX V56 Android 12 RK3566 8GB/64GB TV BOX 1.8GHz 2.4G+5G WIFI Gigabit LAN 8K Decode - EU Plug",
+        "LinkUrl": "https://m.geekbuying.com/item/H96-MAX-V56-Android-12-RK3566-8GB-64GB-TV-BOX-8K-Decode-517009.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-13/H96-MAX-V56-Android-12-RK3566-8GB-64GB-TV-BOX-8K-Decode-517009-0._w280_.jpg",
+        "SalePrice": "$79.99",
+        "CsSalesPrice": "$89.99",
+        "Discount": 11,
+        "LabelText": ""
+      },
+      {
+        "ID": 517015,
+        "Name": "Original Detachable Mop Cleaner Brushes for Roborock S7 MaxV Ultra/S7 Pro Ultra Robot Vacuums - 1 Pair",
+        "LinkUrl": "https://m.geekbuying.com/item/Original-Detachable-Mop-Cleaner-Brushes-517015.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-13/Original-Detachable-Mop-Cleaner-Brushes-517015-0._w280_.jpg",
+        "SalePrice": "$14.99",
+        "CsSalesPrice": "$14.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517201,
+        "Name": "BOSCH GO2 Electric Screwdriver 3.6V 1.5Ah Cordless Rechargeable Hand Drill Power Tools, 0.2-5Nm 6-Speed Torque Adjustment, Smart Stop, Electronic Brake",
+        "LinkUrl": "https://m.geekbuying.com/item/Bosch-Go2-Electric-Screwdriver-517201.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-23/Bosch-Go2-Electric-Screwdriver-517201-0._w280_.jpg",
+        "SalePrice": "$54.99",
+        "CsSalesPrice": "$54.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517163,
+        "Name": "Creativity Ender-3 S1 24V 40W Heater Thermistor Heating Rod 300 Celsius High Temperature Sensor",
+        "LinkUrl": "https://m.geekbuying.com/item/Creativity-Ender-3-S1-Heater-Thermistor-Heating-Rod-517163.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-22/Creativity-Ender-3-S1-Heater-Thermistor-Heating-Rod-517163-0._w280_.jpg",
+        "SalePrice": "$4.99",
+        "CsSalesPrice": "$4.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517164,
+        "Name": "Creativity Ender-3 S1 Aluminum Heating Block Copper Plated Nozzle Kit, 300 Celsius Heater Sensor Thermistor",
+        "LinkUrl": "https://m.geekbuying.com/item/Creativity-Ender-3-S1-Aluminum-Heating-Block-Copper-Plated-Nozzle-Kit-517164.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-22/Creativity-Ender-3-S1-Aluminum-Heating-Block-Copper-Plated-Nozzle-Kit-517164-0._w280_.jpg",
+        "SalePrice": "$12.99",
+        "CsSalesPrice": "$12.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517123,
+        "Name": "Jimmy BX7 PRO Anti-Mite Vacuum Cleaner Power Supply Cable",
+        "LinkUrl": "https://m.geekbuying.com/item/Jimmy-BX7-PRO-Power-Supply-Cable-517123.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-20/Jimmy-BX7-PRO-Anti-Mite-Vacuum-Cleaner-Power-Supply-Cable-517123-0._w280_.jpg",
+        "SalePrice": "$17.99",
+        "CsSalesPrice": "$17.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517058,
+        "Name": "JJRC H106 RC Drone Spare Parts 4PCS Protective Frame",
+        "LinkUrl": "https://m.geekbuying.com/item/JJRC-H106-Spare-Parts-4PCS-Protective-Frame-517058.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-21/jjrc-h106-spare-parts-4pcs-protective-frame-1dadf0-1663760917247._w280_.jpg",
+        "SalePrice": "$3.99",
+        "CsSalesPrice": "$3.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517055,
+        "Name": "JJRC H106 RC Drone Spare Parts CW Motor",
+        "LinkUrl": "https://m.geekbuying.com/item/JJRC-H106-Spare-Parts-CW-Motor-517055.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-16/JJRC-H106-Spare-Parts-CW-Motor-517055-0._w280_.jpg",
+        "SalePrice": "$4.99",
+        "CsSalesPrice": "$4.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517050,
+        "Name": "Y80 Bluetooth 5.1 TWS Earphone Wireless Digital Display HD Stereo Sports Headphones Black",
+        "LinkUrl": "https://m.geekbuying.com/item/Y80-Bluetooth-5-1-TWS-Earphone-517050.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-15/Y80-Bluetooth-5-1-TWS-Earphone-517050-0._w280_.jpg",
+        "SalePrice": "$6.99",
+        "CsSalesPrice": "$6.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517161,
+        "Name": "KZ VXS Bluetooth 5.2 Earphone TWS Earbuds for Gaming, Sports HiFi Stereo Bass In-Ear HD Microphone",
+        "LinkUrl": "https://m.geekbuying.com/item/KZ-VXS-Bluetooth-5-2-Earphone-TWS-Earbuds-517161.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-22/KZ-VXS-Bluetooth-5-2-Earphone-TWS-Earbuds-517161-0._w280_.jpg",
+        "SalePrice": "$46.99",
+        "CsSalesPrice": "$46.99",
+        "Discount": 0,
+        "LabelText": ""
+      },
+      {
+        "ID": 517160,
+        "Name": "KZ AS16 Pro Wired Earphone In-Ear Balance Armature for Sports without Microphone - Cyan",
+        "LinkUrl": "https://m.geekbuying.com/item/KZ-AS16-Pro-Wired-Earphone-without-Microphone-Cyan-517160.html",
+        "PicturePath": "//img.gkbcdn.com/p/2022-09-22/KZ-AS16-Pro-Wired-Earphone-without-Microphone-Cyan-517160-0._w280_.jpg",
+        "SalePrice": "$55.99",
+        "CsSalesPrice": "$55.99",
+        "Discount": 0,
+        "LabelText": ""
+      }
+    ]
+  }
